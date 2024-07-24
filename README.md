@@ -27,3 +27,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lliangmengg&layout=compact&theme=radical&hide_border=true&langs_count=10)
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[lliangmengg]&theme=radical)
+<br/>
+
+![Profile views](https://gpvc.arturio.dev/lliangmengg)
