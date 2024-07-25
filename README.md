@@ -29,4 +29,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[lliangmengg]&theme=radical)
 <br/>
 
-![Profile views](https://gpvc.arturio.dev/lliangmengg)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lliangmengg&show_icons=true&locale=en" alt="lliangmengg" /></p>
