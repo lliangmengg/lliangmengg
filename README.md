@@ -28,5 +28,4 @@
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[lliangmengg]&theme=radical)
 <br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lliangmengg&show_icons=true&locale=en" alt="lliangmengg" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lliangmengg&label=Profile%20views&color=0e75b6&style=flat" alt="lliangmengg" /> </p>
