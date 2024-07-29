@@ -20,6 +20,8 @@
 ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-333333?style=flat&logo=mongodb)
 ![pgAdmin](https://img.shields.io/badge/-pgAdmin-333333?style=flat&logo=postgresql)
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-333333?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-333333?style=flat&logo=thunderclient)
 
 ## GitHub Stats
 ![lliangmengg's GitHub stats](https://github-readme-stats.vercel.app/api?username=lliangmengg&show_icons=true&theme=radical)
