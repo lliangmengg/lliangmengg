@@ -1,6 +1,5 @@
 # Hi there, I'm Liang Meng 👋
 
-## About Me
 - 🎓 I’m currently a computer science undergraduate at Nanyang Technological University.
 
 ## Technologies & Tools
@@ -23,11 +22,3 @@
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-333333?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-## GitHub Stats
-![lliangmengg's GitHub stats](https://github-readme-stats.vercel.app/api?username=lliangmengg&show_icons=true&theme=radical)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lliangmengg&layout=compact&theme=radical&hide_border=true&langs_count=10)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lliangmengg&theme=radical)
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lliangmengg&label=Profile%20views&color=0e75b6&style=flat" alt="lliangmengg" /> </p>
